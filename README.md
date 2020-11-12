@@ -2,4 +2,4 @@
 
 |Codacy|Issues|
 |------|------|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cd5e2761c063480b88cdb3721248ed9a)](https://www.codacy.com/gh/99002535/Web_Development_NodeJS_MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002535/Web_Development_NodeJS_MiniProject&amp;utm_campaign=Badge_Grade)|https://img.shields.io/github/issues-closed-raw/99002535/Web_Development_NodeJS_MiniProject?style=plastic|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cd5e2761c063480b88cdb3721248ed9a)](https://www.codacy.com/gh/99002535/Web_Development_NodeJS_MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002535/Web_Development_NodeJS_MiniProject&amp;utm_campaign=Badge_Grade)|(https://img.shields.io/github/issues-closed-raw/99002535/Web_Development_NodeJS_MiniProject?style=plastic)|
